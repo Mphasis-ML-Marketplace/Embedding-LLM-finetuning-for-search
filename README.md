@@ -10,4 +10,4 @@ Vector search is the preferred mechanism for getting to the intended content fro
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-nsfhelo72jwrw)
+The product can be found [here]()
